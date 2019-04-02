@@ -1,0 +1,18 @@
+{
+  "name": "jamestown",
+  "version": "1.0.0",
+  "description": "crawling site to take screenshots",
+  "main": "index.js",
+  "author": "chris seamon",
+  "license": "MIT",
+  "dependencies": {
+    "os": "^0.1.1",
+    "pixelmatch": "^4.0.2",
+    "pngjs": "^3.3.3",
+    "puppeteer": "^1.11.0"
+  },
+  "scripts": {
+    "puppet": "cd src && node scraper",
+    "create-report": "npm run puppet && cd src && node compare"
+  }
+}

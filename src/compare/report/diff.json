@@ -1,0 +1,37 @@
+[
+    {
+        "title": "historicjamestowne.org-education-production.png",
+        "id": 6,
+        "url": "https://historicjamestowne.org/education/production.png",
+        "imageDifference": 306695,
+        "diff": true
+    },
+    {
+        "title": "historicjamestowne.org-production.png",
+        "id": 12,
+        "url": "https://historicjamestowne.org/production.png",
+        "imageDifference": 45666,
+        "diff": true
+    },
+    {
+        "title": "historicjamestowne.org-about-production.png",
+        "id": 0,
+        "url": "https://historicjamestowne.org/about/production.png",
+        "imageDifference": 853,
+        "diff": true
+    },
+    {
+        "title": "historicjamestowne.org-visit-production.png",
+        "id": 16,
+        "url": "https://historicjamestowne.org/visit/production.png",
+        "imageDifference": 207326,
+        "diff": true
+    },
+    {
+        "title": "historicjamestowne.org-history-production.png",
+        "id": 10,
+        "url": "https://historicjamestowne.org/history/production.png",
+        "imageDifference": 210648,
+        "diff": true
+    }
+]
